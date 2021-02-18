@@ -1,0 +1,4 @@
+email,subject.message
+a@d.sk,hello,zedous ma ty kokot plesnivyt
+jebo@kokot.sk,drop,drbo
+jebo@kokot.sk,drop,fbgfhd
